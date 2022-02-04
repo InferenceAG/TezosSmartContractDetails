@@ -1,0 +1,30 @@
+
+# Tezos smart contract checklist details
+
+An overview of the Tezos smart contract checklist details (TSCD):
+
+- [TSCD-001: Entrypoint visibility](./items/TSCD-001.md)
+- [TSCD-002: Mutez overflow](./items/TSCD-002.md)
+- [TSCD-003: Outdated compiler version](./items/TSCD-003.md)
+- [TSCD-004: Improper access controls](./items/TSCD-004.md)
+- [TSCD-005: Use of deprecated functions](./items/TSCD-005.md)
+- [TSCD-006: Authorisation checks with source](./items/TSCD-006.md)
+- [TSCD-007: Use of block values for randomness](./items/TSCD-007.md)
+- [TSCD-008: Missing signature replay protection](./items/TSCD-008.md)
+- [TSCD-009: DoS with gas limits](./items/TSCD-009.md)
+- [TSCD-010: Unused variables and code](./items/TSCD-010.md)
+- [TSCD-011: Unexpected tez](./items/TSCD-011.md)
+- [TSCD-012: Unencrypted private, secret, or sensitive data](./items/TSCD-012.md)
+- [TSCD-013: Transactions to unknown/untrusted addresses](./items/TSCD-013.md)
+- [TSCD-014: Immediate use of call operation results](./items/TSCD-014.md)
+- [TSCD-015: Wrong operation call ordering](./items/TSCD-015.md)
+- [TSCD-016: Imprecise calculations](./items/TSCD-016.md)
+- [TSCD-017: Transaction ordering](./items/TSCD-017.md)
+- [TSCD-018: Converting Integers to Natural by using "abs"](./items/TSCD-018.md)
+- [TSCD-019: Change of critical addresses](./items/TSCD-019.md)
+- [TSCD-020: Transaction delay](./items/TSCD-020.md)
+- [TSCD-021: SmartPy - inadvertent meta-programmation with control statements](./items/TSCD-021.md)
+- [TSCD-022: Race conditions in contract origination & initialization](./items/TSCD-022.md)
+- [TSCD-023: Use of BALANCE instruction](./items/TSCD-023.md)
+- [TSCD-024: Use of block level or block timestamp for time](./items/TSCD-024.md)
+- [TSCD-025: SmartPy - using sp.local together with map / big_maps](./items/TSCD-025.md)
