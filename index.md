@@ -28,3 +28,4 @@ An overview of the Tezos smart contract checklist details (TSCD):
 - [TSCD-023: Use of BALANCE instruction](./items/TSCD-023.md)
 - [TSCD-024: Use of block level or block timestamp for time](./items/TSCD-024.md)
 - [TSCD-025: SmartPy - using sp.local together with map / big_maps](./items/TSCD-025.md)
+- [TSCD-026: Overspecified field annotations in calls](./items/TSCD-026.md)
