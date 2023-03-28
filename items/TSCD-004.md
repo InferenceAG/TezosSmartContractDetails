@@ -8,6 +8,6 @@ Functions are exposed as entrypoints, but lack appropriate access controls. This
 It is recommended to implement effective access controls preventing unauthorized execution of entrypoints.
 
 ## References
-- https://ligolang.org/docs/tutorials/security/security#incorrect-authorisation-checks
+- https://ligolang.org/docs/tutorials/security/?lang=pascaligo#incorrect-authorisation-checks
 
 ##  Samples/Test cases

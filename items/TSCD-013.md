@@ -17,8 +17,8 @@ It is not recommended to do batch payouts due to potential DoS issues. In additi
 
 ## References
 - [Dexter Token Integration Checklist](https://gitlab.com/camlcase-dev/dexter/-/blob/develop/docs/token-integration.md)
-- https://ligolang.org/docs/tutorials/security/security#transactions-to-untrusted-contracts
-- https://ligolang.org/docs/tutorials/security/security#reentrancy-and-call-injection
+- https://ligolang.org/docs/tutorials/security/?lang=pascaligo#transactions-to-untrusted-contracts
+- https://ligolang.org/docs/tutorials/security/?lang=pascaligo#reentrancy-and-call-injection
 - https://tezos.gitlab.io/developer/michelson_anti_patterns.html#refunding-to-a-list-of-contracts
 
 ## Samples/Test cases

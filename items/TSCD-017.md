@@ -16,7 +16,7 @@ Note: Tezos (will) offer with the "Hangzhou" upgrade a new feature called ["time
 
 ## References
 - https://tezos.gitlab.io/011/timelock.html
-- https://ligolang.org/docs/tutorials/security/security#transaction-ordering
+- https://ligolang.org/docs/tutorials/security/?lang=pascaligo#transaction-ordering
 - https://tezos.stackexchange.com/questions/3522/what-happens-if-there-are-two-operations-calling-the-same-contract-in-the-same-b
 
 ## Samples/Test cases

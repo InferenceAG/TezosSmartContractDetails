@@ -19,6 +19,6 @@ However, this is just a rough approximation and can change (significant) for dif
 Smart contracts developers should be aware that using these values are just an approximation to the current time and that innappropriate use may lead to unexcpeted effects or vulnerabilities. 
 
 ## References
-- https://ligolang.org/docs/tutorials/security/security#timestamps
+- https://ligolang.org/docs/tutorials/security/?lang=pascaligo#timestamps
 
 ## Samples/Test cases

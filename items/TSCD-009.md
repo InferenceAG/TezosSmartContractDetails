@@ -16,6 +16,6 @@ It is recommended to carefully design contract storage, iterations, and validati
 
 ## References
 - https://tezos.gitlab.io/developer/michelson_anti_patterns.html#avoid-batch-operations-when-users-can-increase-the-size-of-the-batch
-- https://ligolang.org/docs/tutorials/security/security#resource-constraints
+- https://ligolang.org/docs/tutorials/security/?lang=pascaligo#resource-constraints
 
 ## Samples/Test cases

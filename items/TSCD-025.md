@@ -3,7 +3,6 @@ SmartPy - using sp.local together with map / big_maps
 
 ## Description  
 Using sp.local to handle values from maps / big_maps may lead to a vulnerability in case the sp.local variable is not stored back to the map. / big_map.
-Care has to be taken, when using sp.local for 
 
 ## Remediation
 It is recommended to carefully review SmartPy code containing sp.local together with map or big_maps and to implement appropriate test cases to cover expected working of code.
